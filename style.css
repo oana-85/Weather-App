@@ -2,3 +2,8 @@ h1 {
   color: darkgreen;
   display: block;
 }
+h2 {
+  text-decoration: underline;
+  font-size: small;
+  color: blue;
+}
